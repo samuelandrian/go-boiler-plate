@@ -1,0 +1,4 @@
+app:
+  name: "boiler-plate"
+  env: "local"
+  port: 8080

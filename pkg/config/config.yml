@@ -1,0 +1,4 @@
+app:
+  name: $APP_NAME
+  env: $APP_ENV
+  port: $APP_PORT
